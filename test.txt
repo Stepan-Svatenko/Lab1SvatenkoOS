@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-that text in master
-=======
-
->>>>>>> test
+text edited on github
